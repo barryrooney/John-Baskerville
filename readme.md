@@ -18,4 +18,4 @@ Each week we'll build on this project as we take you through HTML and CSS.  This
 16th November 2015
 =================
 
-+ [Version 4](https://barryrooney.github.io/john-baskerville/version-4.html) Adding a lovely little table :)
++ [Version 4](https://barryrooney.github.io/john-baskerville/version-4.html) Adding a lovely little table
