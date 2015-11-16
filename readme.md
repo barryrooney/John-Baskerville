@@ -20,4 +20,4 @@ Each week we'll build on this project as we take you through HTML and CSS.  This
 
 + [Version 4](https://barryrooney.github.io/john-baskerville/version-4.html) Adding a lovely little table
 
-+ [Version 5](https://barryrooney.github.io/john-baskerville/version-4.html) Adding a lovely little table
++ [Version 5](https://barryrooney.github.io/john-baskerville/version-5.html) Adding a lovely little table
