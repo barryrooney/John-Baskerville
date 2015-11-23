@@ -22,4 +22,8 @@ Each week we'll build on this project as we take you through HTML and CSS.  This
 
 + [Version 5](https://barryrooney.github.io/john-baskerville/version-5.html) Adding Images to each section to spruce the whole thing up just a little!
 
+
+23rd November 2015
+=================
+
 + [Version 6](https://barryrooney.github.io/john-baskerville/version-6.html) Adding Images to each section to spruce the whole thing up just a little!
