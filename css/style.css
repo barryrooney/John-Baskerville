@@ -40,17 +40,17 @@ a:link {
 
 /* visited link */
 a:visited {
-    color: darksalmon;
+    color: darkcyan;
 }
 
 /* mouse over link */
 a:hover {
-    color: aquamarine;
+    color: cadetblue;
 }
 
 /* selected link */
 a:active {
-    color: beige;
+    color: darkslateblue;
 }
 
 a:link {
