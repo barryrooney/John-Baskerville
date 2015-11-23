@@ -33,3 +33,22 @@ section {padding: 4em 0 2em 0}
     color: cornflowerblue;
     }
             
+/* unvisited link */
+a:link {
+    color: cornflowerblue;
+}
+
+/* visited link */
+a:visited {
+    color: green;
+}
+
+/* mouse over link */
+a:hover {
+    color: hotpink;
+}
+
+/* selected link */
+a:active {
+    color: blue;
+}
