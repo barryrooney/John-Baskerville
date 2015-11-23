@@ -32,7 +32,7 @@ section {padding: 2em 0 2em 0}
 
         
   a {
-      color: cornflowerblue;
+      color: darkmagenta;
       text-decoration: none;
       text-transform: : uppercase;
       letter-spacing: 2px;
@@ -42,7 +42,7 @@ section {padding: 2em 0 2em 0}
             
 /* unvisited link */
 a:link {
-    color: crimson;
+    color: darkmagenta;
 }
 
 /* visited link */
@@ -52,7 +52,8 @@ a:visited {
 
 /* mouse over link */
 a:hover {
-    color: cadetblue;
+    color: darkslateblue;
+    border-bottom: 1px dotted;
 }
 
 /* selected link */
@@ -60,18 +61,3 @@ a:active {
     color: darkslateblue;
 }
 
-a:link {
-    text-decoration: none;
-}
-
-a:visited {
-    text-decoration: none;
-}
-
-a:hover {
-    text-decoration: none;
-}
-
-a:active {
-    text-decoration: none;
-}
