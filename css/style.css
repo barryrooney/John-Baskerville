@@ -52,3 +52,4 @@ a:hover {
 a:active {
     color: blue;
 }
+a: link { text-decoration: none; }
