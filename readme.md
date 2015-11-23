@@ -21,3 +21,5 @@ Each week we'll build on this project as we take you through HTML and CSS.  This
 + [Version 4](https://barryrooney.github.io/john-baskerville/version-4.html) Added a table formed from the list created last week to allow the user to interpret the information quicker and with greater ease.
 
 + [Version 5](https://barryrooney.github.io/john-baskerville/version-5.html) Adding Images to each section to spruce the whole thing up just a little!
+
++ [Version 6](https://barryrooney.github.io/john-baskerville/version-6.html) Adding Images to each section to spruce the whole thing up just a little!
