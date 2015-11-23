@@ -26,16 +26,23 @@ section {padding: 2em 0 2em 0}
 .intro {
     font-size: 1.25em;
     line-height: 1.9em;
-    padding: 2em 0 0 0}
+    padding: 1em 0 0 0}
+
+/* ------- LINKS ------ */
 
         
   a {
-    color: cornflowerblue;
+      color: cornflowerblue;
+      text-decoration: none;
+      text-transform: : uppercase;
+      letter-spacing: 2px;
     }
+
+
             
 /* unvisited link */
 a:link {
-    color: cornflowerblue;
+    color: crimson;
 }
 
 /* visited link */
