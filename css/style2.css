@@ -251,7 +251,7 @@ img {max-width: 100%;
 @media (max-width: 50em) {
 	
 	body{
-		background: aqua;
+		background: #f0f0f0;
 		}
 	
 	article{
@@ -273,7 +273,7 @@ img {max-width: 100%;
 	
 	body{
 		margin: auto 0;
-		background: #BEE9C7;
+		background: #f0f0f0;
 		width: 100%;
 		font-size: 110%;
 		}
