@@ -1,0 +1,303 @@
+*{
+    padding: 0;
+        margin: 0;
+    font-size: 100%;
+    line-height: 1em; }
+        
+    body {
+        width: 75%;
+        max-width: 650px;
+        min-width: 320px;
+        font-size: 100%;
+        font-family: font-family: 'Libre Baskerville', Georgia, Times, serif;
+        margin: auto;
+        background-color: #f0f0f0; /*url (../images/filename.png, no-repeat  fix top left;
+        background position: 50 */
+        color: #333;
+        line-height: 1.6em;}
+
+section {padding: -.5em 0 1em 0;}
+
+
+
+/* TYPOGRAPHY */
+
+        h1, h2, h3 {
+            font-weight: normal;
+            color: cadetblue;
+            text-align: center;
+       }
+        
+        h1{font-size: 6em;
+   padding-bottom: -2em;
+        margin-top: 1em;}
+        
+h2{font-size: 3.5em;
+         line-height: 1.75em;
+        text-transform: none;
+   color: #220;
+margin-top: .5em}
+        
+
+h3{font-size: 1.5em;
+         line-height: -.5em;}
+
+header h2 {
+    font-style: italic;
+    font-size: 2.5em;
+    margin-top: .05em;
+    margin-bottom: .75em;
+    line-height: 1em;
+    color: cadetblue;
+}
+
+
+/* ------- INTRO ------ */
+
+.intro {
+    font-size: 1.1em;
+    line-height: 1.25em;
+    font-style: italic;
+    font-weight: 150;
+    color: cadetblue;
+    margin-top: .75em;
+text-align: center; }
+
+/* ------- BLOCKQUOTE ------ */
+
+blockquote {
+    
+    font-size: 1em;
+    font-style: oblique;
+    line-height: 1.5em;
+    margin: 0;
+    border-top-color: 1px cadetblue;
+    border-bottom-color: 1px cadetblue;
+}
+
+blockquote cite {
+    font-size: 1em;
+    margin-bottom: 2em;
+}
+
+/* ------- ANCHORS ------ */
+
+.anchor {
+    text-transform: uppercase;
+    font-style: italic;
+    font-size: 1.25em; 
+border-top: 1px dotted cadetblue;
+    border-bottom: 1px dotted cadetblue;
+    line-height: 3em;}
+
+/* ------- LINKS ------ */
+
+        
+  a {
+      color: cadetblue;
+      text-decoration: none;
+      text-transform: uppercase;
+      letter-spacing: 2px;
+    margin-top: 2em;
+    }
+
+/* visited link 
+a:visited {
+    color: darkcyan;
+} */
+
+/* mouse over link */
+a:hover {
+    color: #000 ;
+    
+}
+
+/* selected link */
+a:active {
+    color: darkslateblue;}
+
+/* ------ NAV ------ */
+
+
+nav {
+    font-size: 1.2em;
+    padding: .75em;
+    /*border-top: 2.5px dotted cadetblue;
+    border-bottom: 2.5px dotted cadetblue;*/
+    color: cadetblue;
+    position: fixed;
+    top: 0px;
+}
+    
+    nav ul {
+        
+    }
+
+nav ul li { 
+    display: inline;
+    margin:15px; 
+}
+    
+/* ------ FOOTER ------ */
+
+.anchor1 {text-transform: uppercase;
+    font-size: .5em; 
+    padding-bottom: 5em;
+    margin-top: .5em;
+    margin-bottom: 10em;
+colour: #333;}
+
+footer {
+    
+    line-height: 1.2em;
+    border-top: 3.5px dotted cadetblue;
+    border-bottom: 3.5px dotted cadetblue;
+    padding-top: 1em;
+    padding-bottom: 1em;
+    margin-top: 1em;
+    margin-bottom: 2em;
+    color: cadetblue;}
+    
+/* ------ TABLE CAPTION ------ */
+
+    table caption {
+    text-align: center;
+    color: cadetblue; 
+    font-style: italic;
+    padding: .75em;
+    }
+
+/* ------ DROPCAP ------ */
+
+.dropcap, dropcap1 { 
+    float: left;
+    font-size: 5em;
+    line-height: .28em;
+    margin-right: .007em;
+    font-style: italic
+}
+
+.intro {
+    font-weight: bold;
+    text-align: center;
+    font-style: italic
+    justify-content: center;
+   }
+
+/* ------ PARAGRAPH ------ */
+
+p, li {line-height: 1.2;
+padding-bottom: 1em;}
+
+
+/* ------ TABLE ------ */
+
+table {
+margin: auto;
+    text-align: center;
+    width: 100%;
+    display: table;
+    border-collapse: collapse;
+    border-spacing: 2px;
+    margin-bottom: 1.25em;
+    color: #fff;
+    }
+
+caption {
+    margin-bottom: .25em;
+    text-align: center;
+font-size: 1.5em;}
+    
+    table head, th  {
+        color: #fff;
+        text-transform:uppercase;
+        font-weight: bolder;
+        font-size: 1.15em;
+        font-style: italic;
+        text-align: center;
+        }
+
+th, td {
+    padding: .6em;}
+
+table, td {
+border: 1px dotted #f0f0f0;
+background: cadetblue; }
+
+
+
+/* ------ IMAGE ------ */
+
+img {max-width: 100%;
+    display: block;
+    padding-bottom: .75em;
+    padding-top: .75em;
+    margin-bottom: 2em;
+    margin-top: 2.025em;
+    border-top: 1px dotted #333;
+    border-bottom: 1px dotted #333;
+    
+}
+
+.contact  {padding-bottom: 1-em;
+    margin: 0em 1em;}
+
+
+    
+        
+        
+        
+/*-----------------------MEDIA QUERIES-------------------*/
+
+/*----------------TABLET---------------*/
+
+@media (max-width: 50em) {
+	
+	body{
+		background: #f0f0f0;
+		}
+	
+	article{
+		width: 95%;
+		padding: 0.5em;
+		}
+	
+	img{
+		display: block;
+		margin: 1em auto;
+		padding: 0;
+		max-width: 100%;
+		}
+}
+	
+/*-------------SMARTPHONE-----------*/
+
+@media (max-width: 30em) {
+	
+	body{
+		margin: auto 0;
+		background: #f0f0f0;
+		width: 100%;
+		font-size: 110%;
+		}
+
+	article{
+		width: 90%;
+		}
+	
+	h1{font-size: 2.9em}
+	
+	hgroup h2{font-size: 1.5em;
+		padding-top: 0.5em}
+	
+	blockquote{margin: 0;
+			line-height: 1.5em;}
+	
+	nav ul li{font-size: .75em;
+		margin: 10px}
+}
+
+
+.kerntright
+{letter-spacing: -em;}
+        

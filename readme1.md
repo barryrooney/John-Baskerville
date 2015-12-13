@@ -33,4 +33,9 @@ Each week we'll build on this project as we take you through HTML and CSS.  This
 
 + [Version 7](https://barryrooney.github.io/john-baskerville/version-7.html) Adding more style and media queries
 
+23rd November 2015
+=================
+
++ [Version 8](https://barryrooney.github.io/john-baskerville/version-8a.html) Adding more style and media queries
+
 
