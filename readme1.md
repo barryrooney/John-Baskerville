@@ -36,6 +36,5 @@ Each week we'll build on this project as we take you through HTML and CSS.  This
 23rd November 2015
 =================
 
-+ [Version 8](https://barryrooney.github.io/john-baskerville/version-8a.html) Adding more style and media queries
-
++ [Version 8](https://barryrooney.github.io/john-baskerville/version-8a.html) Adding a static header/nav to the top of page
 
